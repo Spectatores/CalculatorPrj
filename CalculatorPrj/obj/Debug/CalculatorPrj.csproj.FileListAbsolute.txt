@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\bin\Debug\CalculatorPrj.exe.config
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\bin\Debug\CalculatorPrj.exe
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\bin\Debug\CalculatorPrj.pdb
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.exe
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.pdb
+C:\Users\Administrator\Desktop\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.Form1.resources
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\bin\Debug\CalculatorPrj.exe.config
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\bin\Debug\CalculatorPrj.exe
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\bin\Debug\CalculatorPrj.pdb
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csproj.AssemblyReference.cache
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csproj.SuggestedBindingRedirects.cache
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.Form1.resources
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.Properties.Resources.resources
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csproj.GenerateResource.cache
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.csproj.CoreCompileInputs.cache
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.exe
+D:\Program Data\Tencent\QQ Data\2072551685\FileRecv\MobileFile\MyProjects\CalculatorPrj\CalculatorPrj\obj\Debug\CalculatorPrj.pdb
